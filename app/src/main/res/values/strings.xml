@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">finaltest_nutdanai_110</string>
+    <string name="root_url">http://127.0.0.1:8000/</string>
+    <string name="product_url">api/show/</string>
+    <string name="product_image_url">assets/product/</string>
+
+</resources>
